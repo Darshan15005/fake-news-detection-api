@@ -1,0 +1,16 @@
+﻿Django==5.2.7
+djangorestframework==3.16.1
+gunicorn==23.0.0
+
+joblib==1.5.2
+scikit-learn==1.7.2
+numpy==2.2.6
+pandas==2.3.3
+scipy==1.15.3
+
+requests==2.32.5
+beautifulsoup4==4.14.2
+lxml==6.0.2
+
+matplotlib==3.10.7
+seaborn==0.13.2

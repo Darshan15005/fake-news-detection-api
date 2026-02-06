@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual Environment
+env/
+env1/
+venv/
+.venv/
+
+# Django
+db.sqlite3
+*.log
+media/
+staticfiles/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+
+# Training datasets
+detection/ml_model/Fake.csv
+detection/ml_model/True.csv
+
+# Training outputs
+detection/ml_model/*confusion_matrix.png
+detection/ml_model/*roc.png
+detection/ml_model/model_accuracy_comparison.png
+detection/ml_model/model_comparison_summary.csv
