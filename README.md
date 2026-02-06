@@ -78,7 +78,6 @@ Best model is saved as a **single pipeline** (`fake_news_model.pkl`).
 **POST** `/api/predict/`
 
 #### Request Body (Text)
-```json
 {
   "text": "The government announced a new economic policy today..."
 }
