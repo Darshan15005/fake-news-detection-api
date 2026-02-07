@@ -34,3 +34,5 @@ detection/ml_model/*confusion_matrix.png
 detection/ml_model/*roc.png
 detection/ml_model/model_accuracy_comparison.png
 detection/ml_model/model_comparison_summary.csv
+
+staticfiles/
